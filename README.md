@@ -7,3 +7,5 @@ RESULT:
 ![RESULT](https://github.com/ffyyytt/covid-19/blob/master/IMG1.png)
 
 ![RESULT](https://github.com/ffyyytt/covid-19/blob/master/IMG2.png)
+
+![RESULT](https://github.com/ffyyytt/covid-19/blob/master/IMG3.png)
