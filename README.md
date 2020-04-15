@@ -1,5 +1,7 @@
 COVID-19 detector using X-ray images
 
+Dataset: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+
 model: https://drive.google.com/open?id=1l_DuoWkmXXYdACVY1tx3F02hBdznSXi9
 
 RESULT:
