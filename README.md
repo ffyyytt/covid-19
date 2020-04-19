@@ -12,6 +12,6 @@ RESULT:
 
 ![RESULT](https://github.com/ffyyytt/covid-19/blob/master/IMG3.png)
 
-Model2:
+Model2: https://drive.google.com/open?id=18ZJzBxUxn4tBVgQuTgvsImAWpsjgk8W-
 
 ![RESULT](https://github.com/ffyyytt/covid-19/blob/master/IMG4.png)
